@@ -1,15 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
 #include <stdio.h>
 
 int getValidDays()
